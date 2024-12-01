@@ -1,0 +1,188 @@
+{
+  "noticias": [
+    {
+      "titulo": "O que é Bitcoin?",
+      "descricao": "Saiba mais sobre a criptomoeda mais famosa do mundo",
+      "imagem": "imagens/bitcoin.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-01",
+      "categoria": "criptomoedas",
+      "id": "aa68"
+    },
+    {
+      "titulo": "Ações da Apple em alta",
+      "descricao": "As ações da Apple atingem novos recordes",
+      "imagem": "imagens/apple.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-02",
+      "categoria": "acoes",
+      "id": "4f39"
+    },
+    {
+      "titulo": "IBOV em 2024",
+      "descricao": "O índice Bovespa e suas perspectivas para este ano",
+      "imagem": "imagens/ibovespa.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-03",
+      "categoria": "acoes",
+      "id": "6b0a"
+    },
+    {
+      "titulo": "Investindo em Ações",
+      "descricao": "Dicas para quem quer começar a investir em ações",
+      "imagem": "imagens/acoes.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-04",
+      "categoria": "acoes",
+      "id": "86f4"
+    },
+    {
+      "titulo": "Solana: A Nova Criptomoeda",
+      "descricao": "Descubra por que Solana está em alta no mercado de criptomoedas",
+      "imagem": "imagens/solana.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-05",
+      "categoria": "criptomoedas",
+      "id": "4407"
+    },
+    {
+      "titulo": "Ações da Tesla: Um Investimento Promissor",
+      "descricao": "As ações da Tesla estão atraindo a atenção dos investidores",
+      "imagem": "imagens/tesla.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-06",
+      "categoria": "acoes",
+      "id": "340e"
+    },
+    {
+      "titulo": "Microsoft e a Revolução Digital",
+      "descricao": "Como a Microsoft está moldando o futuro da tecnologia",
+      "imagem": "imagens/microsoft.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-07",
+      "categoria": "software",
+      "id": "940f"
+    },
+    {
+      "titulo": "Tesouro Direto: O que saber",
+      "descricao": "Entenda como funciona o Tesouro Direto",
+      "imagem": "imagens/tesouro.jpg",
+      "autor": "Gustavo H. Montanari",
+      "data": "2024-10-08",
+      "categoria": "tesouro-direto",
+      "id": "4f41"
+    },
+    {
+      "id": "c324",
+      "titulo": "macaquisse cubica",
+      "descricao": "eh mta macacada",
+      "imagem": "https://pixabay.com/pt/photos/animal-macaco-de-crista-celebes-6626792/",
+      "autor": "Eu mermo derxa",
+      "categoria": "criptomoedas",
+      "data": "21/11/2024"
+    },
+    {
+      "id": "017f",
+      "titulo": "asqfwq",
+      "descricao": "fewfwe",
+      "imagem": "https://cdn.pixabay.com/photo/2021/09/15/12/52/animal-6626792_960_720.jpg",
+      "autor": "asfwef",
+      "categoria": "criptomoedas",
+      "data": "21/11/2024"
+    },
+    {
+      "id": "8cd4",
+      "titulo": "Beatriz",
+      "descricao": "Beatriz dps de cortar o cabelo",
+      "imagem": "https://media.istockphoto.com/id/1201143861/pt/foto/celebes-crested-macaque-with-open-mouth-close-up-portrait.jpg?s=2048x2048&w=is&k=20&c=BqOD4pspGWV12p2ZJjR10yXThqdVSaAsycr857AXhLA=",
+      "autor": "Eu mermo",
+      "categoria": "software",
+      "data": "21/11/2024"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "123",
+      "nome": "Administrador do Sistema",
+      "email": "admin@abc.com"
+    },
+    {
+      "id": "2",
+      "login": "user",
+      "senha": "123",
+      "nome": "Usuario Comum",
+      "email": "user@abc.com"
+    },
+    {
+      "id": "3",
+      "login": "rommel",
+      "senha": "123",
+      "nome": "Rommel",
+      "email": "rommel@gmail.com",
+      "telefone": "1423 43213",
+      "endereco": "teste"
+    },
+    {
+      "id": "4",
+      "login": "eduarda",
+      "email": "eduarda@.com",
+      "nome": "Eduarda Vieira",
+      "senha": "123",
+      "telefone": "12341 123413",
+      "endereco": "endereço ",
+      "foto": "https://avatars.githubusercontent.com/u/159597766?v=4"
+    },
+    {
+      "id": "5",
+      "login": "eric",
+      "email": "eric2@.com2",
+      "nome": "Eric Leal 2",
+      "senha": "123",
+      "telefone": "12341123",
+      "endereco": "endereço",
+      "foto": "https://avatars.githubusercontent.com/u/181984841?v=4"
+    },
+    {
+      "id": "6",
+      "login": "beatriz",
+      "email": "beatriz@.com",
+      "nome": "Beatriz Camila",
+      "senha": "123",
+      "telefone": "Definitivamente um telefone",
+      "endereco": "Endereço",
+      "foto": "https://avatars.githubusercontent.com/u/181984464?v=4"
+    },
+    {
+      "id": "7",
+      "login": "gustavo",
+      "email": "gustavo@.com",
+      "nome": "Gustavo Montanari",
+      "senha": "123",
+      "foto": "https://avatars.githubusercontent.com/u/178229820?v=4",
+      "telefone": "TELEFONE",
+      "endereco": "ENDEREÇO"
+    },
+    {
+      "id": "8",
+      "login": "guilherme",
+      "email": "guilherme@.com",
+      "nome": "Guilherme Marques",
+      "senha": "123",
+      "foto": "https://avatars.githubusercontent.com/u/137842877?v=4",
+      "telefone": "Definitivamente mais um telefone",
+      "endereco": "rua 2"
+    },
+    {
+      "id": "9",
+      "login": "laura",
+      "email": "laura@.com",
+      "nome": "Laura Pontara",
+      "senha": "123",
+      "foto": "https://avatars.githubusercontent.com/u/179180583?v=4",
+      "telefone": "enofeleT",
+      "endereco": "oçerednE"
+    }
+  ]
+}

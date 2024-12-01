@@ -1,0 +1,83 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 400px;
+}
+
+.card {
+  height: 100%; 
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 200px; 
+  display: block; 
+  margin: 0 auto;
+}
+
+.carousel-caption h5, 
+.carousel-caption p {
+  color: #5eff00;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #e0e0e0;
+}
+
+.container-fluid {
+  max-width: 1200px; 
+  margin: auto; 
+}
+
+.row {
+  margin: 0; 
+}
+
+.col-md-3, .col-md-9 {
+  padding: 15px; 
+}
+
+.card-body {
+  flex-grow: 1; 
+}
+.carousel-caption {
+  color: white; 
+}
+
+.carousel-caption.tesouro {
+  color: #f0ad4e; 
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.imagemUsuario {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+}
+
+.dropdown-menu {
+  right: 0;
+}
